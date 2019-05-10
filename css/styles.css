@@ -12,11 +12,10 @@ img{
   text-decoration-color: white;
   height: 250px;
   font-size: 30px;
-  border-color: inherit;grey;
-  background-image: url("../images/pig-dice-game-yellow-800.jpg");
+  background-image: url("../images/images.jpeg");
 }
 .container{
-  width:1008px;
+  width:1000px;
 
 
 }
