@@ -69,7 +69,7 @@ Output:
 
 #####Setup/Installation
 
-To view the website, click Pig Dice Game or copy () to your browser and load it.
+To view the website, click Pig Dice Game or copy (https://0704282877.github.io/Pig-Dice/) to your browser and load it.
 
 Known Bugs
 No known bugs.
