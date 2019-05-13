@@ -1,8 +1,8 @@
 #Author:GEORGE KINUTHIA NJOROGE
 
-#Date:11/5/2019
+##Date:11/5/2019
 
-#Description
+###Description
 
 A simple dice game with two players. Each player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold". The player who first scores 100 or more points wins.
 Description
@@ -15,7 +15,7 @@ When the player rolls a 2 - 6, the score is added to their turn total and they c
 When the player chooses to "hold", their turn total is added to their total score, and it becomes the next player's turn.
 The player who first scores 100 or more points wins.
 
-#Specifications
+####Specifications
 
 It can display the inputted name of the players when 'Play' is clicked.
 Input:
@@ -67,14 +67,14 @@ Output:
    Previous Turn Score: 30
    New Turn Score: 0
 
-#Setup/Installation
+#####Setup/Installation
 
 To view the website, click Pig Dice Game or copy () to your browser and load it.
 
 Known Bugs
 No known bugs.
 
-#Technologies Used
+######Technologies Used
 
 HTML
 CSS
@@ -82,6 +82,6 @@ BOOTSTRAP
 JAVASCRIPT
 JQUERY
 
-#Licence
+#######Licence
 
 MIT ©2019 GEORGE KINUTHIA NJOROGE
